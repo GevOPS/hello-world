@@ -32,6 +32,6 @@
   </div>
 
    <h1 align=center> Thank you, Happy Learning, it's great, good job!  </h1>
-   <h2 align=left> how are you my frineds, so good </h2>
+   <h2 align=left> I do it </h2>
   
 </form>
